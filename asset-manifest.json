@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7847600a.chunk.css",
-    "main.js": "/static/js/main.78d13093.chunk.js",
-    "main.js.map": "/static/js/main.78d13093.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.fa4a79a6.chunk.css": "/static/css/2.fa4a79a6.chunk.css",
-    "static/js/2.d2f536a1.chunk.js": "/static/js/2.d2f536a1.chunk.js",
-    "static/js/2.d2f536a1.chunk.js.map": "/static/js/2.d2f536a1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5e6f2b1318ef424ec9e7316c9d69ebd0.js": "/precache-manifest.5e6f2b1318ef424ec9e7316c9d69ebd0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.fa4a79a6.chunk.css.map": "/static/css/2.fa4a79a6.chunk.css.map",
-    "static/css/main.7847600a.chunk.css.map": "/static/css/main.7847600a.chunk.css.map",
-    "static/media/logo-mandalina-suites.png": "/static/media/logo-mandalina-suites.34730ebf.png",
-    "static/media/qrcode.jpg": "/static/media/qrcode.b21e34e4.jpg"
+    "main.css": "/futminna-bus-app/static/css/main.7847600a.chunk.css",
+    "main.js": "/futminna-bus-app/static/js/main.f8d3d43e.chunk.js",
+    "main.js.map": "/futminna-bus-app/static/js/main.f8d3d43e.chunk.js.map",
+    "runtime~main.js": "/futminna-bus-app/static/js/runtime~main.56fd4d85.js",
+    "runtime~main.js.map": "/futminna-bus-app/static/js/runtime~main.56fd4d85.js.map",
+    "static/css/2.fa4a79a6.chunk.css": "/futminna-bus-app/static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.d2f536a1.chunk.js": "/futminna-bus-app/static/js/2.d2f536a1.chunk.js",
+    "static/js/2.d2f536a1.chunk.js.map": "/futminna-bus-app/static/js/2.d2f536a1.chunk.js.map",
+    "index.html": "/futminna-bus-app/index.html",
+    "precache-manifest.14e4a36487bb4c6d5ef8619da000a3d0.js": "/futminna-bus-app/precache-manifest.14e4a36487bb4c6d5ef8619da000a3d0.js",
+    "service-worker.js": "/futminna-bus-app/service-worker.js",
+    "static/css/2.fa4a79a6.chunk.css.map": "/futminna-bus-app/static/css/2.fa4a79a6.chunk.css.map",
+    "static/css/main.7847600a.chunk.css.map": "/futminna-bus-app/static/css/main.7847600a.chunk.css.map",
+    "static/media/logo-mandalina-suites.png": "/futminna-bus-app/static/media/logo-mandalina-suites.34730ebf.png",
+    "static/media/qrcode.jpg": "/futminna-bus-app/static/media/qrcode.b21e34e4.jpg"
   }
 }
